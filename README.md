@@ -63,85 +63,82 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 
 # Presented projects
 
-Amazon Managed Streaming For Kafka [Slides](Amazonmanagedstreamingforkafka/Slides.pdf)
+[Amazon Managed Streaming For Kafka](Amazonmanagedstreamingforkafka/README.md) - [Slides](Amazonmanagedstreamingforkafka/Slides.pdf)
 - Gómez Londoño, René
 - Salfati Calleja, Ivan
 
-Blockchain For Data Security [Slides](Blockchainfordatasecurity/Slides.pdf)
+[Blockchain For Data Security](Blockchainfordatasecurity/README.md) - [Slides](Blockchainfordatasecurity/Slides.pdf)
 - Acosta Villalobos, Danilo
 - Rojas Ruiz, Ricardo
 
-Cloud Architecture For Continuous Intregration/Continuous Delivery [Slides](Continuousdelivery/Slides.pdf)
+[Cloud Architecture For Continuous Intregration/Continuous Delivery](Continuousdelivery/README.md)   - [Slides](Continuousdelivery/Slides.pdf)
 - San Miguel Pérez, Elena
 - Nixon, Anthony
 
-Cloud Architecture For Continuous Intregration/Continuous Delivery [Slides](Continuousdelivery-2/Slides.pdf)
+[Cloud Architecture For Continuous Intregration/Continuous Delivery](Continuousdelivery-2/README.md)  - [Slides](Continuousdelivery-2/Slides.pdf)
 - Ismail, Haydar Ali
 - Nugroho, Dwi Prasetyo Adi
 
-Data Portability [Slides](Dataportability/Slides.pdf)
+[Data Portability](Dataportability/README.md) - [Slides](Dataportability/Slides.pdf)
 - Lopez Estigarribia, Pablo Jose
 - Mendes Stefanini, Fernando
 
-Deep Learning In The Cloud [Slides](Deeplearninginthecloud/Slides.pdf)
+[Deep Learning In The Cloud](Deeplearninginthecloud/README.md) - [Slides](Deeplearninginthecloud/Slides.pdf)
 - Pozdeev, Evgeny
 - Prapas, Ioannis
 
-Fog Computing And 5G [Slides](Fogcomputingand5G/Slides.pdf)
+[Fog Computing And 5G](Fogcomputingand5G/README.md) - [Slides](Fogcomputingand5G/Slides.pdf)
 - Bonzom, Magali
 - Ali Shaker, Alhassan Abubakr Mahmoud Galal
 
-Google Cloud Platform For Data Science [Slides](Googlecloudplatformfordatascience/Slides.pdf)
+[Google Cloud Platform For Data Science](Googlecloudplatformfordatascience/README.md) - [Slides](Googlecloudplatformfordatascience/Slides.pdf)
 - Najafzade, Nazrin
 - Turkyilmaz, Pinar
 
-Integration Of Cloud Computing With Internet Of Things [Slides](Integrationofcloudcomputingwithinternetofthings/Slides.pdf)
+[Integration Of Cloud Computing With Internet Of Things](Integrationofcloudcomputingwithinternetofthings/README.md) - [Slides](Integrationofcloudcomputingwithinternetofthings/Slides.pdf)
 - Homvanish, Sivaporn
 - Wu, Tzu-Man
 
-Kubeflow [Slides](Kubeflow/Slides.pdf)
+[Kubeflow](Kubeflow/README.md) - [Slides](Kubeflow/Slides.pdf)
 - Amjad, Danish
 - Solanki, Pratham
 
-Kubernettes [Slides](Kubernettes/Slides.pdf)
+[Kubernettes](Kubernettes/README.md) - [Slides](Kubernettes/Slides.pdf)
 - Arora, Kunal
 - Sharma, Ankush
 
-Machine Learning Services In The Cloud [Slides](Machinelearningservicesinthecloud/Slides.pdf)
+[Machine Learning Services In The Cloud](Machinelearningservicesinthecloud/README.md) - [Slides](Machinelearningservicesinthecloud/Slides.pdf)
 - Patrascu, Eugen Robert
 - Zapirain Mariezcurrena, Ainhoa
 
-Microsoft Azure Vs AWS Features Comparison [Slides](Microsoftazurevsawsfeaturescomparison/Slides.pdf)
+[Microsoft Azure Vs AWS Features Comparison](Microsoftazurevsawsfeaturescomparison/README.md) - [Slides](Microsoftazurevsawsfeaturescomparison/Slides.pdf)
 - Özer, Buse
 - Diaz, Sara
 
-Semantic Web In The Cloud [Slides](Semanticwebinthecloud/Slides.pdf)
+[Semantic Web In The Cloud](Semanticwebinthecloud/README.md) - [Slides](Semanticwebinthecloud/Slides.pdf)
 - Chennaf, Kaoutar
 - Martinez  Manzanilla, Anais 
 
-Serverless Framework And Django [Slides](Serverlessframeworkanddjango/Slides.pdf)
+[Serverless Framework And Django](Serverlessframeworkanddjango/README.md) - [Slides](Serverlessframeworkanddjango/Slides.pdf)
 - Conte, Edoardo
 - Muñiz Cuza, Carlos Enrique
 
-Services For Data Science On Top Of AWS [Slides](Servicesfordatascienceontopofaws/Slides.pdf)
+[Services For Data Science On Top Of AWS](Servicesfordatascienceontopofaws/README.md) - [Slides](Servicesfordatascienceontopofaws/Slides.pdf)
 - Badillo Puebla, Jose Carlos
 - Martinez Lopera, Maria Gabriela
 
-Tableau [Slides](Tableau/Slides.pdf)
+[Tableau](Tableau/README.md) - [Slides](Tableau/Slides.pdf)
 - Blanco Lambruschini, Braulio Cesar
 - Taveira De Carvalho Moreira, Gonçalo
 
-Tableau [Slides](Tableau-2/Slides.pdf)
+[Tableau](Tableau/README.md) - [Slides](Tableau-2/Slides.pdf)
 - Salmaan, Shabana
 - Sharma, Amritansh
 
-Terraform [Slides](Terraform/Slides.pdf)
+[Terraform](Terraform/README.md) - [Slides](Terraform/Slides.pdf)
 - Burger, Annemarie
 - Ouro Paz, Elena
 
-Terraform [Slides](Terraform-2/Slides.pdf)
+[Terraform](Terraform/README.md) - [Slides](Terraform-2/Slides.pdf)
 - Martinez Lorenzo, Carlos
 - Papadopoulos, Sokratis
-
-
-
