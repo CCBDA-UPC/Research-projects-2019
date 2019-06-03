@@ -139,6 +139,6 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 - Burger, Annemarie
 - Ouro Paz, Elena
 
-[Terraform](Terraform/README.md) - [Slides](Terraform-2/Slides.pdf)
+[Terraform](Terraform-2/README.md) - [Slides](Terraform-2/Slides.pdf)
 - Martinez Lorenzo, Carlos
 - Papadopoulos, Sokratis
