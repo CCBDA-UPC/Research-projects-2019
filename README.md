@@ -131,7 +131,7 @@ You need to create a **PDF** file with the 20 slides and submit it to the Racó 
 - Blanco Lambruschini, Braulio Cesar
 - Taveira De Carvalho Moreira, Gonçalo
 
-[Tableau](Tableau/README.md) - [Slides](Tableau-2/Slides.pdf)
+[Tableau](Tableau-2/README.md) - [Slides](Tableau-2/Slides.pdf)
 - Salmaan, Shabana
 - Sharma, Amritansh
 
